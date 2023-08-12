@@ -12,3 +12,5 @@ The files that can be found in the repository are:
 
 1. **IOL_holder.stl.glb**: The main part of the device, with flanges to dock it on the smartphone and a well for the IOL that has to be positioned in front of the smartphone's camera.
 2. **cap.stl.glb**: A screw down cap to hold the IOL in place.
+
+*Designed by Pierfrancesco Iodice*
